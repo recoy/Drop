@@ -42,7 +42,6 @@ public class TileGenerator : MonoBehaviour
 
             else
                 HolesRandomPlace(i * levelsDistance, 2);
-
         }
     }
 
